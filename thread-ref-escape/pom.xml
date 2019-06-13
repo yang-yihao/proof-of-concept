@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hoogia</groupId>
-  <artifactId>poc-thread</artifactId>
+  <artifactId>poc-thread-ref-escape</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>poc-thread</name>
+  <name>thread-ref-escape</name>
   <url>http://maven.apache.org</url>
 
   <properties>

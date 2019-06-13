@@ -1,4 +1,4 @@
-package com.hoogia.poc.thread;
+package com.hoogia.poc.thread.refescape;
 
 /**
  * EventListener

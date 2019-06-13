@@ -15,7 +15,7 @@
   </properties>
 
   <modules>
-      <module>poc-thread</module>
+      <module>thread-ref-escape</module>
   </modules>
 
 </project>
