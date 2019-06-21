@@ -3,22 +3,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hoogia</groupId>
-  <artifactId>proof-of-concept</artifactId>
+  <artifactId>poc-thread-task-executor</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
-  <name>proof-of-concept</name>
+  <name>thread-task-executor</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-
-  <modules>
-      <module>thread-ref-escape</module>
-      <module>thread-volatile</module>
-      <module>thread-latch</module>
-      <module>thread-task-executor</module>
-  </modules>
 
 </project>
